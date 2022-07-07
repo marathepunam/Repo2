@@ -1,0 +1,11 @@
+ Volume in drive C is Windows
+ Volume Serial Number is BA25-BEDF
+
+ Directory of C:\Users\Chinchole\Desktop\DemoGit
+
+06-07-2022  10:11    <DIR>          .
+06-07-2022  10:04    <DIR>          ..
+06-07-2022  10:09    <DIR>          .git
+06-07-2022  10:11                 0 test1.txt
+               1 File(s)              0 bytes
+               3 Dir(s)  105,528,455,168 bytes free
